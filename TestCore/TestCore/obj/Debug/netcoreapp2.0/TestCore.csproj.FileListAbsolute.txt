@@ -1,0 +1,11 @@
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\obj\Debug\netcoreapp2.0\TestCore.csprojAssemblyReference.cache
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\obj\Debug\netcoreapp2.0\TestCore.csproj.CoreCompileInputs.cache
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\obj\Debug\netcoreapp2.0\TestCore.AssemblyInfoInputs.cache
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\obj\Debug\netcoreapp2.0\TestCore.AssemblyInfo.cs
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\bin\Debug\netcoreapp2.0\TestCore.deps.json
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\bin\Debug\netcoreapp2.0\TestCore.runtimeconfig.json
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\bin\Debug\netcoreapp2.0\TestCore.runtimeconfig.dev.json
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\bin\Debug\netcoreapp2.0\TestCore.dll
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\bin\Debug\netcoreapp2.0\TestCore.pdb
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\obj\Debug\netcoreapp2.0\TestCore.dll
+F:\00CLF2018\002018程式學習\GIT\Practice\TestCore\TestCore\obj\Debug\netcoreapp2.0\TestCore.pdb

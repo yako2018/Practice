@@ -1,0 +1,6 @@
+F:\00CLF2018\002018程式學習\GIT\Practice\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+F:\00CLF2018\002018程式學習\GIT\Practice\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+F:\00CLF2018\002018程式學習\GIT\Practice\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+F:\00CLF2018\002018程式學習\GIT\Practice\TestConsole\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+F:\00CLF2018\002018程式學習\GIT\Practice\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+F:\00CLF2018\002018程式學習\GIT\Practice\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
